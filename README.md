@@ -8,7 +8,9 @@ Allows users to change the color multiple times by clicking the button
 
 
 # Technologies Used
+
 HTML
+
 CSS
 JavaScript
 
