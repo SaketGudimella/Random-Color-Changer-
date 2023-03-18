@@ -1,5 +1,3 @@
-# Random-Color-Changer-
-
 # Random Color Changer
 This is a simple website that generates a random color and changes the background color of the page and the button when a button is clicked.
 
@@ -8,13 +6,14 @@ Generates a random hex color code
 Changes the background color of the page and the button
 Allows users to change the color multiple times by clicking the button
 
+
 # Technologies Used
 HTML
 CSS
 JavaScript
 
 # Installation
-Clone the repository: git clone https://github.com/example/random-color-changer.git
+Clone the repository: git clone https://github.com/SaketGudimella/Random-Color-Changer-
 Navigate to the project directory: cd random-color-changer
 Open the index.html file in your web browser
 
