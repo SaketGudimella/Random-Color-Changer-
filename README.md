@@ -2,20 +2,20 @@
 This is a simple website that generates a random color and changes the background color of the page and the button when a button is clicked.
 
 # Features
-Generates a random hex color code
+1) Generates a random hex color code
 
-Changes the background color of the page and the button
+2) Changes the background color of the page and the button
 
-Allows users to change the color multiple times by clicking the button
+3) Allows users to change the color multiple times by clicking the button
 
 
 # Technologies Used
 
-HTML
+1) HTML
 
-CSS
+2) CSS
 
-JavaScript
+3) JavaScript
 
 # Installation
 Clone the repository: git clone https://github.com/SaketGudimella/Random-Color-Changer-
@@ -26,6 +26,7 @@ Open the index.html file in your web browser
 
 # Usage
 Click the "Click here to change the color" button to generate a random color and change the background color of the page and the button.
+
 Repeat step 1 to generate a new random color and change the background color again.
 
 # Contributing
